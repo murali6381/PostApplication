@@ -1,8 +1,8 @@
 # Posts Application
 
 This project was developed in Angular8
-Its a simple posts application where the posts and images are stored in MongoDB cloud.
-Used NodeJS to develop the REST API
+for creating posts and image uploads using NodeJS, REST API and MongoDB Atlas as backend.
+
 
 
 ## Further help
